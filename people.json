@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Dr. Asha Nair",
+    "expertise": "Artificial Intelligence Research",
+    "summary": "Leads projects in deep learning, natural language processing, and reinforcement learning. Ideal for academic-level AI strategy, model evaluation, and innovation guidance."
+  },
+  {
+    "name": "Rajiv Menon",
+    "expertise": "Network Engineering",
+    "summary": "Specializes in network security, LAN/WAN architecture, and firewall administration. Handles enterprise-level connectivity, infrastructure, and secure system deployment."
+  },
+  {
+    "name": "Shweta Rao",
+    "expertise": "UI/UX Design",
+    "summary": "Designs intuitive user interfaces for mobile and web applications. Skilled in Figma, Adobe XD, and user journey optimization."
+  },
+  {
+    "name": "Anil Deshmukh",
+    "expertise": "Full Stack Web Development",
+    "summary": "Builds scalable web applications using React, Node.js, and MongoDB. Ideal for backend APIs, database design, and frontend integration."
+  },
+  {
+    "name": "Meera Thomas",
+    "expertise": "Data Science & Visualization",
+    "summary": "Works with Python, Pandas, Power BI, and Tableau to extract insights from large datasets. Suitable for predictive modeling and KPI dashboards."
+  },
+  {
+    "name": "Karan Kapoor",
+    "expertise": "Game Development",
+    "summary": "Experienced in Unity and Unreal Engine. Works on 2D/3D game mechanics, asset integration, and physics simulation."
+  },
+  {
+    "name": "Tanya Iyer",
+    "expertise": "Digital Marketing",
+    "summary": "Expert in SEO, Google Ads, and content strategy. Ideal for growing online presence and optimizing web content performance."
+  },
+  {
+    "name": "Ramesh Bhatia",
+    "expertise": "Embedded Systems",
+    "summary": "Works with microcontrollers, sensors, and IoT hardware. Programs in C/C++ for hardware-level automation."
+  },
+  {
+    "name": "Pooja Banerjee",
+    "expertise": "Cloud Infrastructure",
+    "summary": "Designs and manages scalable deployments on AWS, Azure, and GCP. Specializes in CI/CD, Kubernetes, and DevOps pipelines."
+  },
+  {
+    "name": "Sandeep Varma",
+    "expertise": "Technical Writing",
+    "summary": "Creates documentation for APIs, SDKs, software guides, and policy manuals. Ideal for creating accessible, structured, and version-controlled technical content."
+  }
+]
